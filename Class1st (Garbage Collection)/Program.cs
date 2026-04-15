@@ -1,6 +1,33 @@
 ﻿
-    internal class Program
+public class Circle
+{
+    public Circle()
     {
+        Console.WriteLine("Circle created");
+    }
+
+    public int x;
+    public int y;
+    public float radius;
+}
+
+internal class Program
+    {
+    static void Collide(Circle c1, Circle c2)
+    {
+        float Radius = (c1.radius + c2.radius) * (c1.radius + c2.radius);
+        float Distance = ((c1.x - c2.x) * (c1.x - c2.x) + (c1.y - c2.y) * (c1.y - c2.y));
+
+        if (Radius < Distance)
+        {
+            Console.WriteLine("Do not collide");
+        }
+        else
+        {
+            Console.WriteLine("Collided");
+        }
+    }
+
     static void Main(string[] args)
     {
         #region 박싱
@@ -45,6 +72,18 @@
         // Compact : Sweep 후에 분산된 객체들을 관리되는 힙 영역의 시작 주소로 모아
         //           메모리가 할당된 부분과 그렇지 않은 부분을 압축합니다.
 
+       //Circle circle1 = new();
+       //Circle circle2 = new();
+       //
+       //circle1.x = 2;
+       //circle1.y = 3;
+       //circle1.radius = 4.5f;
+       //
+       //circle2.x = 5;
+       //circle2.y = 1;
+       //circle2.radius = 2.75f;
+       //
+       //Collide(circle1, circle2);
 
 
         #endregion
