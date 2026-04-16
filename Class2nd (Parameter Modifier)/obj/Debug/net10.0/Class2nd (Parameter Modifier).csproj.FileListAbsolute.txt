@@ -1,0 +1,15 @@
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\bin\Debug\net10.0\Class2nd (Parameter Modifier).exe
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\bin\Debug\net10.0\Class2nd (Parameter Modifier).deps.json
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\bin\Debug\net10.0\Class2nd (Parameter Modifier).runtimeconfig.json
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\bin\Debug\net10.0\Class2nd (Parameter Modifier).dll
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\bin\Debug\net10.0\Class2nd (Parameter Modifier).pdb
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).AssemblyInfoInputs.cache
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).AssemblyInfo.cs
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).csproj.CoreCompileInputs.cache
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).sourcelink.json
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).dll
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\refint\Class2nd (Parameter Modifier).dll
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).pdb
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\Class2nd (Parameter Modifier).genruntimeconfig.cache
+C:\Users\이시원\Desktop\5\Class2nd (Parameter Modifier)\obj\Debug\net10.0\ref\Class2nd (Parameter Modifier).dll

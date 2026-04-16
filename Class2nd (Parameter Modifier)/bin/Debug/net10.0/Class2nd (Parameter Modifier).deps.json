@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Class2nd (Parameter Modifier)/1.0.0": {
+        "runtime": {
+          "Class2nd (Parameter Modifier).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class2nd (Parameter Modifier)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
