@@ -4,16 +4,16 @@ using System.Text;
 
 namespace Program
 {
-    internal class Knight : Soldier
+    internal class Guard : Soldier
     {
-        public Knight()
+        public Guard()
         {
-            health = 150;
-            defense = 20;
+            health = 250;
+            defense = 30;
         }
         public override void Attack()
         {
-            Console.WriteLine("Knight's attack!");
+            Console.WriteLine("Guard's attack!");
         }
     }
 }
