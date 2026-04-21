@@ -1,0 +1,15 @@
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).AssemblyInfoInputs.cache
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).AssemblyInfo.cs
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).csproj.CoreCompileInputs.cache
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).sourcelink.json
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\bin\Debug\net10.0\Class3rd (Abstract Class).exe
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\bin\Debug\net10.0\Class3rd (Abstract Class).deps.json
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\bin\Debug\net10.0\Class3rd (Abstract Class).runtimeconfig.json
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\bin\Debug\net10.0\Class3rd (Abstract Class).dll
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\bin\Debug\net10.0\Class3rd (Abstract Class).pdb
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).dll
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\refint\Class3rd (Abstract Class).dll
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).pdb
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\Class3rd (Abstract Class).genruntimeconfig.cache
+C:\Users\이시원\Desktop\5\Class3rd (Abstract Class)\obj\Debug\net10.0\ref\Class3rd (Abstract Class).dll

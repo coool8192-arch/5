@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../Class1st (Garbage Collection)/Class1st (Garbage Collection).csproj" Id="73954b4e-f29a-417f-81f8-c6ea0bd78605" />
   <Project Path="../Class2nd (Parameter Modifier)/Class2nd (Parameter Modifier).csproj" Id="0766deae-bb86-404f-8ab3-cbc697d69952" />
+  <Project Path="../Class3rd (Abstract Class)/Class3rd (Abstract Class).csproj" Id="0c169ea9-d2d7-47e9-809f-c4b0cc90f7ed" />
   <Project Path="Program.csproj" />
 </Solution>

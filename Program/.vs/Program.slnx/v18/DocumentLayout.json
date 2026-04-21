@@ -3,34 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\barrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:barrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C169EA9-D2D7-47E9-809F-C4B0CC90F7ED}|..\\Class3rd (Abstract Class)\\Class3rd (Abstract Class).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class3rd (abstract class)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0766DEAE-BB86-404F-8AB3-CBC697D69952}|..\\Class2nd (Parameter Modifier)\\Class2nd (Parameter Modifier).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class2nd (parameter modifier)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73954B4E-F29A-417F-81F8-C6EA0BD78605}|..\\Class1st (Garbage Collection)\\Class1st (Garbage Collection).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class1st (garbage collection)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C169EA9-D2D7-47E9-809F-C4B0CC90F7ED}|..\\Class3rd (Abstract Class)\\Class3rd (Abstract Class).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class3rd (abstract class)\\barrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,82 +42,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Barrack.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Barrack.cs",
-              "RelativeDocumentMoniker": "Barrack.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Barrack.cs",
-              "RelativeToolTip": "Barrack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:15:18.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Guard.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Guard.cs",
-              "RelativeDocumentMoniker": "Guard.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Guard.cs",
-              "RelativeToolTip": "Guard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:26:35.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Archer.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Archer.cs",
-              "RelativeDocumentMoniker": "Archer.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Archer.cs",
-              "RelativeToolTip": "Archer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:24:02.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Knight.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Knight.cs",
-              "RelativeDocumentMoniker": "Knight.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Knight.cs",
-              "RelativeToolTip": "Knight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Clock.cs",
+              "RelativeDocumentMoniker": "Clock.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Clock.cs",
+              "RelativeToolTip": "Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:29:20.384Z",
+              "WhenOpened": "2026-04-21T12:27:31.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Soldier.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Soldier.cs",
-              "RelativeDocumentMoniker": "Soldier.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Soldier.cs",
-              "RelativeToolTip": "Soldier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Title": "Frame.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Frame.cs",
+              "RelativeDocumentMoniker": "Frame.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Frame.cs",
+              "RelativeToolTip": "Frame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:24:00.558Z",
+              "WhenOpened": "2026-04-21T12:10:34.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Interface1.cs",
+              "RelativeDocumentMoniker": "Interface1.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Interface1.cs",
+              "RelativeToolTip": "Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:02:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class3rd (Abstract Class)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class3rd (Abstract Class)\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class3rd (Abstract Class)\\Program.cs",
+              "RelativeToolTip": "..\\Class3rd (Abstract Class)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:21:24.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:14:41.709Z",
               "EditorCaption": ""
@@ -128,9 +117,23 @@
               "RelativeDocumentMoniker": "..\\Class2nd (Parameter Modifier)\\Program.cs",
               "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class2nd (Parameter Modifier)\\Program.cs",
               "RelativeToolTip": "..\\Class2nd (Parameter Modifier)\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:12:32.626Z"
+              "WhenOpened": "2026-04-16T12:12:32.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Switch.cs",
+              "RelativeDocumentMoniker": "Switch.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Switch.cs",
+              "RelativeToolTip": "Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:28:23.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,9 +143,23 @@
               "RelativeDocumentMoniker": "..\\Class1st (Garbage Collection)\\Program.cs",
               "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class1st (Garbage Collection)\\Program.cs",
               "RelativeToolTip": "..\\Class1st (Garbage Collection)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAASwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:22:44.298Z"
+              "WhenOpened": "2026-04-14T11:22:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Barrack.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class3rd (Abstract Class)\\Barrack.cs",
+              "RelativeDocumentMoniker": "..\\Class3rd (Abstract Class)\\Barrack.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class3rd (Abstract Class)\\Barrack.cs",
+              "RelativeToolTip": "..\\Class3rd (Abstract Class)\\Barrack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:26:19.772Z",
+              "EditorCaption": ""
             }
           ]
         }
