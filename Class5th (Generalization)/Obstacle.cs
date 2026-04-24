@@ -9,13 +9,17 @@ namespace Program
         private int x = 0;
         private int y = 0;
 
-        public void Translate(int x,int y)
+        public void SetPosition(int x,int y)
         {
             this.x = x;
             this.y = y;
 
-            Console.WriteLine("x : " + x);
-            Console.WriteLine("y : " + y);
+            Console.SetCursorPosition(this.x, this.y);
+        }
+
+        public void Render()
+        {
+            Console.Write("◇");
         }
     }
 }
