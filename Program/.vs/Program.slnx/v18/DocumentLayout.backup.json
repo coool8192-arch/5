@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3BE01DE-0022-44CF-897E-73CD3040EAD4}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class7th (enumerator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3BE01DE-0022-44CF-897E-73CD3040EAD4}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class7th (enumerator)\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE01DE-0022-44CF-897E-73CD3040EAD4}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class7th (enumerator)\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE01DE-0022-44CF-897E-73CD3040EAD4}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class7th (enumerator)\\enumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Item.cs",
-              "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Item.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:01:34.381Z",
+              "WhenOpened": "2026-04-29T11:42:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:41:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enumerator.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:41:22.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Inventory.cs",
-              "RelativeDocumentMoniker": "Inventory.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Inventory.cs",
-              "RelativeToolTip": "Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:01:11.19Z",
+              "WhenOpened": "2026-04-29T11:40:52.865Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwC8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:14:41.709Z",
               "EditorCaption": ""

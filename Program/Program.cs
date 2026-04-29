@@ -2,29 +2,57 @@
 {
     internal class Program
     {
+        delegate float Operation(float x, float y);
+
+        static float Add(float x, float y)
+        {
+            return x + y;
+        }
+
+        static float Substract(float x, float y)
+        {
+            return x - y;
+        }
+
+        static float Multiply(float x, float y)
+        {
+            return x * y;
+        }
+
+        static float Devide(float x, float y)
+        {
+            return x / y;
+        }
+
+        void Execute(Operation operation)
+        {
+
+        }
 
         static void Main(string[] args)
         {
-            #region 열거자
-            // 다수의 항목으로 구성된 데이터 집합에서 각 요소를
-            // 하나씩 순서대로 꺼내 사용할 수 있게 해주는 객체입니다.
+            #region 대리자
+            // 특정 함수를 가진 함수를 참조할 수 있는 참조 타입입니다.
 
-            Inventory<Item> inventory = new Inventory<Item>();
+            Operation operation;
 
-            Item knife = new();
+            operation = Add;
 
-            knife.Name = "Knife";
-            knife.Level = 1;
-            knife.explanation = "Normal knife for meal.";
+            Console.WriteLine(operation(2.5f, 1.25f));
 
-            inventory.Add(knife);
-            inventory.Add(knife);
-            inventory.Add(knife);
-            inventory.Add(knife);
-            inventory.Add(knife);
+            operation = Substract;
+
+            Console.WriteLine(operation(2.5f, 1.25f));
+
+            operation = Multiply;
+
+            Console.WriteLine(operation(2.5f, 1.25f));
+
+            operation = Devide;
+
+            Console.WriteLine(operation(2.5f, 1.25f));
 
             #endregion
         }
-
     }
 }
