@@ -7,6 +7,41 @@
       "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\sealant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:sealant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\defective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:defective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\program\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B982B2A0-E670-7D93-37DF-A995148A5734}|Program.csproj|solutionrelative:bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A13BCD-3A45-497F-A96D-986DE85901C7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class9th (single responsibility principle)\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A13BCD-3A45-497F-A96D-986DE85901C7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class9th (single responsibility principle)\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A13BCD-3A45-497F-A96D-986DE85901C7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class9th (single responsibility principle)\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A13BCD-3A45-497F-A96D-986DE85901C7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class9th (single responsibility principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83713AF8-B26D-4A0D-8A6B-67D3D71673EA}|..\\Class8th (Delegate)\\Class8th (Delegate).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class8th (delegate)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3BE01DE-0022-44CF-897E-73CD3040EAD4}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\\uC774\uC2DC\uC6D0\\desktop\\5\\class7th (enumerator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,58 +61,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Item.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Sealant.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Sealant.cs",
+              "RelativeDocumentMoniker": "Sealant.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Sealant.cs",
+              "RelativeToolTip": "Sealant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T11:42:06.979Z",
+              "WhenOpened": "2026-05-04T12:19:26.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Inventory.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Sensor.cs",
+              "RelativeDocumentMoniker": "Sensor.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Sensor.cs",
+              "RelativeToolTip": "Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T11:41:52.218Z",
+              "WhenOpened": "2026-05-04T12:15:25.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Bread.cs",
+              "RelativeDocumentMoniker": "Bread.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Bread.cs",
+              "RelativeToolTip": "Bread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:13:05.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Enumerator.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Enumerator.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Enumerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Title": "Defective.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Defective.cs",
+              "RelativeDocumentMoniker": "Defective.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Defective.cs",
+              "RelativeToolTip": "Defective.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T11:41:22.209Z",
+              "WhenOpened": "2026-05-04T12:11:03.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Program.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Product.cs*",
+              "RelativeToolTip": "Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T11:40:52.865Z",
+              "WhenOpened": "2026-05-04T12:03:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persistence.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Persistence.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Persistence.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Persistence.cs",
+              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\Persistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:26:07.426Z",
               "EditorCaption": ""
             },
             {
@@ -86,12 +147,111 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwC8AAAA2AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:14:41.709Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\User.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\User.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\User.cs",
+              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:26:36.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authenticate.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
+              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:25:50.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class9th (Single Responsibility Principle)\\Program.cs",
+              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:25:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:41:52.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enumerator.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:41:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class8th (Delegate)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class8th (Delegate)\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class8th (Delegate)\\Program.cs",
+              "RelativeToolTip": "..\\Class8th (Delegate)\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:09:35.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Item.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Item.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:42:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\5\\Class7th (Enumerator)\\Program.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:40:52.865Z"
             }
           ]
         }
