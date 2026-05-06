@@ -1,0 +1,15 @@
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\bin\Debug\net10.0\Class11th (Interface Segregation Principle).exe
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\bin\Debug\net10.0\Class11th (Interface Segregation Principle).deps.json
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\bin\Debug\net10.0\Class11th (Interface Segregation Principle).runtimeconfig.json
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\bin\Debug\net10.0\Class11th (Interface Segregation Principle).dll
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\bin\Debug\net10.0\Class11th (Interface Segregation Principle).pdb
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).AssemblyInfoInputs.cache
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).AssemblyInfo.cs
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).csproj.CoreCompileInputs.cache
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).sourcelink.json
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).dll
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\refint\Class11th (Interface Segregation Principle).dll
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).pdb
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\Class11th (Interface Segregation Principle).genruntimeconfig.cache
+C:\Users\이시원\Desktop\5\Class11th (Interface Segregation Principle)\obj\Debug\net10.0\ref\Class11th (Interface Segregation Principle).dll
