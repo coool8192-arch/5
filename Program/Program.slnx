@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="../Class10th ()/Class10th (Open-Closed Principle).csproj" Id="d5157301-4d65-4d12-8f04-a8be2563a17c" />
   <Project Path="../Class11th (Interface Segregation Principle)/Class11th (Interface Segregation Principle).csproj" Id="b66be92c-41ea-48c5-ba89-c0290e7b04fb" />
+  <Project Path="../Class12th (Dependency Inversion Principle)/Class12th (Dependency Inversion Principle).csproj" Id="0f2dcb00-d474-4ad8-b532-87fa686003cc" />
+  <Project Path="../Class13th (Liskov Substitution Principle)/Class13th (Liskov Substitution Principle).csproj" Id="f68b6974-ab45-46bf-92e8-16c5b9aa1a2c" />
   <Project Path="../Class1st (Garbage Collection)/Class1st (Garbage Collection).csproj" Id="73954b4e-f29a-417f-81f8-c6ea0bd78605" />
   <Project Path="../Class2nd (Parameter Modifier)/Class2nd (Parameter Modifier).csproj" Id="0766deae-bb86-404f-8ab3-cbc697d69952" />
   <Project Path="../Class3rd (Abstract Class)/Class3rd (Abstract Class).csproj" Id="0c169ea9-d2d7-47e9-809f-c4b0cc90f7ed" />
